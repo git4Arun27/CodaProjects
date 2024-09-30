@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 11
+names: ['Abrasive-Disc', 'Bearing-Ball', 'Bolt-NoModifier', 'Bolt-Plow', 'Collar-Bearing', 'Element-coupling', 'Encoder-data', 'Hose-Assembly', 'Idler-Conveyer', 'None', 'Nut-NoModifier']
